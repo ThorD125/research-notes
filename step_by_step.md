@@ -151,8 +151,9 @@ john --format=gpg --wordlist=/usr/share/wordlist/rockyou.txt hash
 gpg --import {file}.asc
 gpg --decrypt {file}.gpg
 
-### windows
+### windows // auzre // ms365
 https://wadcoms.github.io/
+https://cmd.ms
 
 #### impacket
 secretsdump.py -just-dc -no-pass {dcname}\$@{dcip}

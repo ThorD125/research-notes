@@ -174,10 +174,53 @@ in burp request, send to repeat, edit things, add to group, duplicate request, s
 https://github.com/TheSysRat/Hammer--THM/blob/main/pin-brute.py
 
 
-
+Sql in eventviewer 
+Eventviewer>windows logs>application 
 12345'; UPDATE books SET book_name = 'Hacked'; --
 12345'; DROP TABLE hello; --
 1' OR 1=1 --
 Intro to PHP' || 1=1 --
 1%27%0A||%0A1=1%0A--%27+
 
+Esxi > vcenter
+Vcenter management: 
+Vcenter::5480 
+Taskmanager van vcenter 
+rvtools
+
+wvdadmin
+
+diskanalyzer - wiztree
+wbemtest
+appwiz.cpl -> .cpl tools
+
+services.msc ->.msc
+
+repadmin /replsummary 
+
+Powercfg /batteryreport 
+
+
+Intune>devices 
+Mdm  
+microsoft configuration 
+Dan word sscm waarschijnlijk gebruikt 
+Als een key server gebruikt word: 
+Checken welke server 
+slmgr.vbs /dli 
+Proberen te heractiveren: 
+slmgr.vbs /ato 
+Misschien: 
+cscript.exe slmgr.vbs /ato 
+registreer: 
+slmgr.vbs /ipk <KMS_Key> 
+
+
+mstsc /admin /f /v:{ip} 
+.\Administrator
+
+installers office apps + 32bit en 64bits
+https://portal.office.com/account/#installs 
+
+citrix studio
+https://citrix.{domain}/Director 
