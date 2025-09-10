@@ -1,2 +1,4 @@
 msfconsole
 ilspy
+rdcman
+rvtools
