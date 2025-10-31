@@ -10,3 +10,9 @@ git pull --recurse-submodules
 change to the code view or raw link, 
 otherwise most stuff will not look great,
 lines will always show on a new line when "needed"
+
+## knowledge in this repo
+if your thinking this is all the knowledge i know,
+simply said its not,
+there is far more i know in my head,
+this is just the stuff i've been able to note down
